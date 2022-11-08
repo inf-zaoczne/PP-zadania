@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace HelloWorld
 {
     class Hello
@@ -7,12 +7,9 @@ namespace HelloWorld
         {
             Console.WriteLine("Podaj liczbę: ");
             int a = int.Parse(Console.ReadLine());
-
             if (a > 0) Console.WriteLine("1");
-            if (a == 0) Console.WriteLine("0");
-            if (a < 0) Console.WriteLine("-1");
-
-
+            else if (a == 0) Console.WriteLine("0");
+            else Console.WriteLine("-1");
         }
     }
 }
