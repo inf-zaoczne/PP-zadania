@@ -1,4 +1,4 @@
-# Poniżej zestaw kolejnych zadań.
+# Zestaw zadań do wykoanania w pliku [Zadania_zestaw_4.pdf](./Zadania_zestaw_4.pdf)
 
 Instrukcja jak zacząć znajduje się [tutaj](../README.md).
 
