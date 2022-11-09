@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace HelloWorld
 {
     class Hello
@@ -16,7 +16,6 @@ namespace HelloWorld
             {
                 Console.WriteLine("Liczba jest niepearzysta");
             }
-
         }
     }
 }
