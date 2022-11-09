@@ -1,4 +1,4 @@
-#Poniżej zestaw kolejnych zadań.
+# Poniżej zestaw kolejnych zadań.
 
 Instrukcja jak zacząć znajduje się [tutaj](../README.md).
 
@@ -10,7 +10,11 @@ Więcej na temat konwencji używanej w języku C# [tutaj](https://learn.microsof
 Rozwiązanie umieszczamy w folderze zrobione_do_sprawdzenia i robimy **pull request**.
 
 Nazewnictwo:
+
 Zadanie 1 -> zadanie_1.cs
+
 Zadanie 2 -> zadanie_2.cs
+
 ...
+
 Zadanie 20 -> zadanie_20.cs
