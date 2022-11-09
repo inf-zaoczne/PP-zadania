@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace HelloWorld
 {
     class Hello
@@ -8,11 +8,7 @@ namespace HelloWorld
             // string result = "Prawda"
             Console.WriteLine("Podaj liczbę całkowitą: ");
             int first = int.Parse(Console.ReadLine());
-            if (first%2==0)
-            {
-            Console.WriteLine("Liczba "+first+" jest parzysta");
-            }
-            
+            if (first % 2 == 0) Console.WriteLine("Liczba " + first + " jest parzysta");
         }
     }
 }
