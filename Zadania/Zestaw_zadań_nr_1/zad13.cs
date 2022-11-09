@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace HelloWorld
 {
     class Hello
@@ -11,10 +11,9 @@ namespace HelloWorld
             int b = int.Parse(Console.ReadLine());
             Console.WriteLine("Podaj liczbę c: ");
             int c = int.Parse(Console.ReadLine());
-
             // obliczenia
-            double math1 = c-b;
-            if (math1%2==0)
+            double math1 = c - b;
+            if (math1 % 2 == 0)
             {
                 double result = math1 / a;
                 Console.WriteLine("X = " + result);
@@ -22,10 +21,8 @@ namespace HelloWorld
             else
             {
                 double result = math1 / a;
-                Console.WriteLine("X (w przybliżeniu) = " + Math.Round(result,2));
+                Console.WriteLine("X (w przybliżeniu) = " + Math.Round(result, 2));
             }
-
-
         }
     }
 }
