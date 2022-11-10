@@ -1,14 +1,13 @@
 Na chwilę obecną autorem wszystkich rozwiązań jest Patryk.
 
-Dzięki wielkie Patryk!
+Dzięki wielkie Patryk! 💪
 
-# W tym miejscu pojawi się lista z zadaniami i linkami bezpośrednio do folderu/pliku z rozwiązaniem.
+# Poniżej lista z zadaniami
 
 
-# Prowadzący - Paweł Płaczek
-# Zestaw zadań nr 1
+## Zestaw zadań nr 1
 
-| LP  | Zadanie                |               Link                |
+| LP  | Zadanie                |                               |
 | :-: | :--------------------- | :-------------------------------: |
 |  1  | Napisz program, który wypisze w konsoli Hello world! | [LINK](Zestaw_zadań_nr_1/zad1.cs) |
 |  2  | Napisz program, który wypisze w konsoli w kolejnych liniach Pierwsza linia oraz Druga linia | [LINK](Zestaw_zadań_nr_1/zad2.cs) |
@@ -38,7 +37,7 @@ Dzięki wielkie Patryk!
 
 # Zestaw zadań nr 2
 
-| LP  | Zadanie                |               Link                |
+| LP  | Zadanie                |                               |
 | :-: | :--------------------- | :-------------------------------: |
 |  1  | Napisz program, który pobierze od użytkownika 10 liczb całkowitych a następnie wypisze je w odwrotnej kolejności. | [LINK](Zestaw_zadań_nr_2/zad1.cs) |
 |  2  | Napisz program, który pobierze od użytkownika 10 liczb całkowitych a następnie wypisze tylko liczby parzyste. | [LINK](Zestaw_zadań_nr_2/zad2.cs) |
