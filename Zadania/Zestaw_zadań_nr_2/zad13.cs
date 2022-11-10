@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace Exercise
 {
     class Program
@@ -9,11 +9,12 @@ namespace Exercise
             Console.WriteLine("Podaj liczbę całkowitą");
             int number = Convert.ToInt32(Console.ReadLine());
             bool isPowerOf2 = false;
-            do {
+            do
+            {
                 if (number % 2 == 0) number /= 2;
-                else if (number == 1) isPowerOf2 = true;
-                else if (number % 2 != 0) number = 0;
-            } 
+                if (number == 1) isPowerOf2 = true;
+                if (number % 2 != 0) number = 0;
+            }
             while (number >= 1);
             if (isPowerOf2 == true) Console.WriteLine("TAK");
             else Console.WriteLine("NIE");
