@@ -6,11 +6,11 @@ Zestaw zadan (przygotowanie do kolo)
 |  2  | Program oblicza objetosc kuli o promieniu podanym przez uzytkownika | [LINK](Zad_2.cs) |
 |  3  | Program przelicza kwote EUR na PLN w oparciu o podany kurs wymiany | [LINK](Zad_3.cs) |
 |  4  | Program sprawdza czy liczba podana przez użytkownika jest wieksza, mniejsza lub równa 5 | [LINK](Zad_4.cs) |
-|  5  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_5.cs) |
-|  6  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_6.cs) |
-|  7  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_7.cs) |
-|  8  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_8.cs) |
-|  9  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_9.cs) |
+|  5  | Program oblicza wartośc funkcji y = 2x+5 w przedziale od 0 do 10 | [LINK](Zad_5.cs) |
+|  6  | Program wyswietla liczby całkowite z przedziału -10 do 10 | [LINK](Zad_6.cs) |
+|  7  | Program wyswietla sumę liczb z przedziału -10 do 10 | [LINK](Zad_7.cs) |
+|  8  | Program pozwala odgadnac użytkownikowi wylosowana liczbę w 3 próbach | [LINK](Zad_8.cs) |
+|  9  | Program rysuje, wybierz 1 - trojkat, 2 - prostoką | [LINK](Zad_9.cs) |
 |  10  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_10.cs) |
 |  11 | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_11.cs) |
 |  12  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_12.cs) |
