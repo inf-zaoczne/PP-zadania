@@ -90,10 +90,8 @@ namespace WSBkolo
                         Console.ReadKey();
                         Console.Clear();
                     }
-
                 }
-
                 Console.ReadLine();
             }
-        }
+       }
 }
