@@ -3,9 +3,9 @@ Zestaw zadan (przygotowanie do kolo)
 | LP  | Zadanie                |                               |
 | :-: | :--------------------- | :-------------------------------: |
 |  1  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_1.cs) |
-|  2  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_2.cs) |
-|  3  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_3.cs) |
-|  4  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_4.cs) |
+|  2  | Program oblicza objetosc kuli o promieniu podanym przez uzytkownika | [LINK](Zad_2.cs) |
+|  3  | Program przelicza kwote EUR na PLN w oparciu o podany kurs wymiany | [LINK](Zad_3.cs) |
+|  4  | Program sprawdza czy liczba podana przez użytkownika jest wieksza, mniejsza lub równa 5 | [LINK](Zad_4.cs) |
 |  5  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_5.cs) |
 |  6  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_6.cs) |
 |  7  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_7.cs) |
