@@ -11,11 +11,11 @@ Zestaw zadan (przygotowanie do kolo)
 |  7  | Program wyswietla sumę liczb z przedziału -10 do 10 | [LINK](Zad_7.cs) |
 |  8  | Program pozwala odgadnac użytkownikowi wylosowana liczbę w 3 próbach | [LINK](Zad_8.cs) |
 |  9  | Program rysuje, wybierz 1 - trojkat, 2 - prostoką | [LINK](Zad_9.cs) |
-|  10  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_10.cs) |
-|  11 | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_11.cs) |
-|  12  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_12.cs) |
-|  13  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_13.cs) |
-|  14  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_14.cs) |
+|  10  | Program oblicza silnie dla podanej liczby w przedziale 1-12 | [LINK](Zad_10.cs) |
+|  11  | Program oblicza kwadrat podanej liczby | [LINK](Zad_11.cs) |
+|  12  | Program oblicza silnie dla podanej liczby w przedziale 1-15 | [LINK](Zad_12.cs) |
+|  13  | Program sprawdza czy podana liczba jest pierwsza | [LINK](Zad_13.cs) |
+|  14  | Program sortuje liczby algorytmem bąbelkowym | [LINK](Zad_14.cs) |
 |  15  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_15.cs) |
 |  16  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_16.cs) |
 |  17  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_17.cs) |
