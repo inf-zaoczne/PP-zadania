@@ -22,5 +22,5 @@ Zestaw zadan (przygotowanie do kolo)
 |  18  | Program rysuje piramidę o podanej wysokosci | [LINK](Zad_18.cs) |
 |  19  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_19.cs) |
 |  20  | Program rysujący poziomy histogram z gwiazdek ilustrujący rozkład wartości w podanym przez użytkownika ciągu liczb z przedziału 1 – 5 | [LINK](Zad_20.cs) |
-|  21  | Z |
+|  21  | Program z menu oraz kilkoma mniejszymy opcjami do wyboru| [LINK](Zad_21.cs) |
 
