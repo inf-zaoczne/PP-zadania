@@ -17,7 +17,8 @@ Zestaw zadan (przygotowanie do kolo)
 |  13  | Program sprawdza czy podana liczba jest pierwsza | [LINK](Zad_13.cs) |
 |  14  | Program sortuje liczby algorytmem bąbelkowym | [LINK](Zad_14.cs) |
 |  15  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_15.cs) |
-|  16  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_16.cs) |
+|  16  | Gra w zgadywanie liczby dla 2-5 osób. Program losuje dla kazdego gracza inną liczbę, 
+po czym każdy gracz ma szanse na jej odgadnięcie w max 4 próbach | [LINK](Zad_16.cs) |
 |  17  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_17.cs) |
 |  18  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_18.cs) |
 |  19  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_19.cs) |
