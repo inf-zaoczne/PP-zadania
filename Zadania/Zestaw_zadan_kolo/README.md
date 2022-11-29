@@ -20,7 +20,7 @@ Zestaw zadan (przygotowanie do kolo)
 |  16  | Gra w zgadywanie liczby dla 2-5 osób. Program losuje dla kazdego gracza inną liczbę, po czym każdy gracz ma szanse na jej odgadnięcie w max 4 próbach | [LINK](Zad_16.cs) |
 |  17  | rogram poprosi użytkownika o podanie długości ciągu liczb, a następnie wczyta po kolei te liczby do tablicy.Następnie program ma wyliczyć średnią z podanych liczb i wypisać ją na ekranie | [LINK](Zad_17.cs) |
 |  18  | Program rysuje piramidę o podanej wysokosci | [LINK](Zad_18.cs) |
-|  19  | Program oblicza pole prostokąta o wymiarach boków podanych przez użytkownika | [LINK](Zad_19.cs) |
+|  19  |  | [LINK](Zad_19.cs) |
 |  20  | Program rysujący poziomy histogram z gwiazdek ilustrujący rozkład wartości w podanym przez użytkownika ciągu liczb z przedziału 1 – 5 | [LINK](Zad_20.cs) |
 |  21  | Program z menu oraz kilkoma mniejszymy opcjami do wyboru| [LINK](Zad_21.cs) |
 
